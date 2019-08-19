@@ -1,5 +1,8 @@
 # Building Renderless Components to Handle CRUD Operations in Vue.js
 
+## Tags
+mixin renderless crud
+
 [![Patreon](https://img.shields.io/badge/patreon-donate-blue.svg)](https://www.patreon.com/maoberlehner)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/maoberlehner)
 
